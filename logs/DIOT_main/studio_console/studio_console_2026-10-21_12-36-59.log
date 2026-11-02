@@ -1,0 +1,61 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 21/10/2026, 12:37:49
+  ==========================================
+  
+
+[2026-10-21T17:51:38.645Z] : [success]: Robot saved successfully
+
+[2026-10-21T18:15:23.645Z] : [success]: Robot saved successfully
+
+[2026-10-21T18:15:25.961Z] : [error]: Cannot read properties of null (reading 'comment')
+
+[2026-10-21T19:11:13.215Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:11:27.708Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:12:16.855Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:12:47.928Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:23:13.168Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:23:49.008Z] : [success]: Workflow published successfully
+
+[2026-10-21T19:47:18.872Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:53:52.823Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:55:47.769Z] : [success]: Robot saved successfully
+
+[2026-10-21T19:56:23.129Z] : [success]: Workflow published successfully
+
+[2026-10-21T19:56:25.945Z] : [success]: Robot saved successfully
+
+[2026-10-21T20:03:55.741Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.744Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.746Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.748Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.749Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.753Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.756Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.788Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.798Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.801Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.804Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.818Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-10-21T20:03:55.822Z] : [error]: Cannot read properties of null (reading 'type')
+

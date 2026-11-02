@@ -1,0 +1,281 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 12/3/2026, 9:03:35
+  ==========================================
+  
+
+[2026-03-12T15:03:44.501Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:37:34.783Z] : [error]: Script Stopped.
+
+[2026-03-12T15:37:35.109Z] : [info]: Total execution time: 3m 28s 239ms
+
+[2026-03-12T15:37:35.110Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:38:28.094Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:38:43.011Z] : [success]: Bot started
+
+[2026-03-12T15:38:43.029Z] : [info]: Robot start
+
+[2026-03-12T15:39:06.676Z] : [error]: Script Stopped.
+
+[2026-03-12T15:39:07.085Z] : [info]: Total execution time: 23s 645ms
+
+[2026-03-12T15:39:07.086Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:39:32.075Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:39:40.965Z] : [success]: Bot started
+
+[2026-03-12T15:39:40.967Z] : [info]: Robot start
+
+[2026-03-12T15:39:51.210Z] : [error]: ERROR on Runtime.evaluate
+
+[2026-03-12T15:39:51.441Z] : [info]: Total execution time: 10s 243ms
+
+[2026-03-12T15:39:51.442Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:42:32.858Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:42:37.758Z] : [success]: Bot started
+
+[2026-03-12T15:42:37.760Z] : [info]: Robot start
+
+[2026-03-12T15:42:50.081Z] : [success]: Bot finished successfully, total execution time: 12s 314ms
+
+[2026-03-12T15:42:50.082Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:42:53.908Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:42:58.155Z] : [success]: Bot started
+
+[2026-03-12T15:42:58.157Z] : [info]: Robot start
+
+[2026-03-12T15:43:08.422Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-03-12T15:43:08.602Z] : [info]: Total execution time: 10s 264ms
+
+[2026-03-12T15:43:08.604Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:44:06.682Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:44:20.101Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:44:32.110Z] : [success]: Bot started
+
+[2026-03-12T15:44:32.112Z] : [info]: Robot start
+
+[2026-03-12T15:44:43.407Z] : [success]: Bot finished successfully, total execution time: 11s 289ms
+
+[2026-03-12T15:44:43.410Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:44:50.592Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:44:50.895Z] : [success]: Bot started
+
+[2026-03-12T15:44:50.897Z] : [info]: Robot start
+
+[2026-03-12T15:45:00.356Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-03-12T15:45:00.541Z] : [info]: Total execution time: 9s 458ms
+
+[2026-03-12T15:45:00.542Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:45:50.033Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:46:04.457Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:46:09.044Z] : [success]: Bot started
+
+[2026-03-12T15:46:09.045Z] : [info]: Robot start
+
+[2026-03-12T15:46:21.319Z] : [success]: Bot finished successfully, total execution time: 12s 269ms
+
+[2026-03-12T15:46:21.321Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:46:24.820Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:46:31.965Z] : [success]: Bot started
+
+[2026-03-12T15:46:31.966Z] : [info]: Robot start
+
+[2026-03-12T15:46:42.253Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-03-12T15:46:42.482Z] : [info]: Total execution time: 10s 286ms
+
+[2026-03-12T15:46:42.483Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:49:08.897Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:49:13.140Z] : [success]: Bot started
+
+[2026-03-12T15:49:13.142Z] : [info]: Robot start
+
+[2026-03-12T15:49:25.513Z] : [success]: Bot finished successfully, total execution time: 12s 366ms
+
+[2026-03-12T15:49:25.515Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:49:34.767Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:49:38.315Z] : [success]: Bot started
+
+[2026-03-12T15:49:38.317Z] : [info]: Robot start
+
+[2026-03-12T15:49:48.604Z] : [success]: Bot finished successfully, total execution time: 10s 283ms
+
+[2026-03-12T15:49:48.607Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:50:09.352Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:50:09.790Z] : [success]: Bot started
+
+[2026-03-12T15:50:09.792Z] : [info]: Robot start
+
+[2026-03-12T15:50:25.658Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-03-12T15:50:25.918Z] : [info]: Total execution time: 15s 865ms
+
+[2026-03-12T15:50:25.920Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:50:32.111Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:50:32.506Z] : [success]: Bot started
+
+[2026-03-12T15:50:32.508Z] : [info]: Robot start
+
+[2026-03-12T15:50:46.072Z] : [success]: Bot finished successfully, total execution time: 13s 560ms
+
+[2026-03-12T15:50:46.074Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:52:11.435Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:52:11.767Z] : [success]: Bot started
+
+[2026-03-12T15:52:11.769Z] : [info]: Robot start
+
+[2026-03-12T15:52:25.394Z] : [success]: Bot finished successfully, total execution time: 13s 621ms
+
+[2026-03-12T15:52:25.397Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:52:45.449Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:52:45.839Z] : [success]: Bot started
+
+[2026-03-12T15:52:45.841Z] : [info]: Robot start
+
+[2026-03-12T15:52:58.405Z] : [success]: Bot finished successfully, total execution time: 12s 559ms
+
+[2026-03-12T15:52:58.407Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:54:10.164Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:54:19.429Z] : [success]: Bot started
+
+[2026-03-12T15:54:19.431Z] : [info]: Robot start
+
+[2026-03-12T15:55:25.687Z] : [success]: Bot finished successfully, total execution time: 1m 6s 250ms
+
+[2026-03-12T15:55:25.689Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:57:32.365Z] : [error]: Script Stopped.
+
+[2026-03-12T15:57:32.859Z] : [info]: Total execution time: 49s 83ms
+
+[2026-03-12T15:57:32.861Z] : [info]: ---------------------------------------------
+
+[2026-03-12T15:58:28.810Z] : [success]: Robot saved successfully
+
+[2026-03-12T15:58:29.117Z] : [success]: Bot started
+
+[2026-03-12T15:58:29.118Z] : [info]: Robot start
+
+[2026-03-12T15:58:49.299Z] : [error]: Script Stopped.
+
+[2026-03-12T15:58:49.639Z] : [info]: Total execution time: 20s 180ms
+
+[2026-03-12T15:58:49.640Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:02:21.503Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:02:29.776Z] : [success]: Bot started
+
+[2026-03-12T16:02:29.777Z] : [info]: Robot start
+
+[2026-03-12T16:02:59.458Z] : [error]: Script Stopped.
+
+[2026-03-12T16:02:59.783Z] : [info]: Total execution time: 29s 679ms
+
+[2026-03-12T16:02:59.785Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:07:28.256Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:07:36.646Z] : [success]: Bot started
+
+[2026-03-12T16:07:36.648Z] : [info]: Robot start
+
+[2026-03-12T16:07:49.038Z] : [success]: Bot finished successfully, total execution time: 12s 383ms
+
+[2026-03-12T16:07:49.040Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:07:56.818Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:08:00.159Z] : [success]: Bot started
+
+[2026-03-12T16:08:00.161Z] : [info]: Robot start
+
+[2026-03-12T16:08:10.496Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again.
+
+[2026-03-12T16:08:10.878Z] : [info]: Total execution time: 10s 334ms
+
+[2026-03-12T16:08:10.879Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:11:00.354Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:11:04.726Z] : [success]: Bot started
+
+[2026-03-12T16:11:04.728Z] : [info]: Robot start
+
+[2026-03-12T16:11:16.250Z] : [success]: Bot finished successfully, total execution time: 11s 516ms
+
+[2026-03-12T16:11:16.253Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:11:45.655Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:11:48.692Z] : [success]: Bot started
+
+[2026-03-12T16:11:48.694Z] : [info]: Robot start
+
+[2026-03-12T16:12:44.356Z] : [success]: Bot finished successfully, total execution time: 55s 650ms
+
+[2026-03-12T16:12:44.361Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:17:25.265Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:18:49.885Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:19:52.320Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:19:57.312Z] : [success]: Bot started
+
+[2026-03-12T16:19:57.314Z] : [info]: Robot start
+
+[2026-03-12T16:20:20.887Z] : [success]: Bot finished successfully, total execution time: 23s 568ms
+
+[2026-03-12T16:20:20.890Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:20:37.947Z] : [success]: Robot saved successfully
+
+[2026-03-12T16:20:42.617Z] : [success]: Bot started
+
+[2026-03-12T16:20:42.620Z] : [info]: Robot start
+
+[2026-03-12T16:21:39.784Z] : [success]: Bot finished successfully, total execution time: 57s 159ms
+
+[2026-03-12T16:21:39.786Z] : [info]: ---------------------------------------------
+
+[2026-03-12T16:21:42.637Z] : [success]: Robot saved successfully
+
+[2026-03-12T18:00:03.626Z] : [success]: Robot saved successfully
+

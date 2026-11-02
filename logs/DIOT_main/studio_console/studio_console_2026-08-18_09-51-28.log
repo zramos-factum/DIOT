@@ -1,0 +1,21 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 18/8/2026, 9:51:50
+  ==========================================
+  
+
+[2026-08-18T14:52:18.572Z] : [success]: The workflow has been exported successfully
+
+[2026-08-18T15:42:42.167Z] : [info]: Internet connection // error
+
+[2026-08-19T13:08:43.489Z] : [success]: Connection to our licenses server is restored
+
+[2026-08-19T13:21:35.087Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-19T13:21:35.092Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-19T13:21:35.101Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-19T13:21:35.103Z] : [error]: Cannot read properties of null (reading 'type')
+

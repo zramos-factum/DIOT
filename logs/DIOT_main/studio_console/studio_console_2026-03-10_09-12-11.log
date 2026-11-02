@@ -1,0 +1,43 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 10/3/2026, 9:12:41
+  ==========================================
+  
+
+[2026-03-10T16:49:05.629Z] : [info]: Internet connection // error
+
+[2026-03-10T16:50:49.573Z] : [success]: Connection to our licenses server is restored
+
+[2026-03-10T16:51:41.065Z] : [info]: Internet connection // error
+
+[2026-03-11T14:27:36.561Z] : [success]: Connection to our licenses server is restored
+
+[2026-03-11T14:27:45.832Z] : [info]: Internet connection // error
+
+[2026-03-11T14:27:49.858Z] : [success]: Connection to our licenses server is restored
+
+[2026-03-11T16:28:31.379Z] : [info]: Internet connection // error
+
+[2026-03-11T16:28:37.417Z] : [success]: Connection to our licenses server is restored
+
+[2026-03-11T16:29:22.213Z] : [info]: Internet connection // error
+
+[2026-03-11T16:29:51.662Z] : [success]: Connection to our licenses server is restored
+
+[2026-03-11T16:30:37.308Z] : [info]: Internet connection // error
+
+[2026-03-11T16:43:27.900Z] : [success]: Robot saved successfully
+
+[2026-03-11T16:45:58.121Z] : [success]: Robot saved successfully
+
+[2026-03-11T16:47:20.423Z] : [success]: Connection to our licenses server is restored
+
+[2026-03-11T16:49:49.812Z] : [info]: Internet connection // error
+
+[2026-03-11T16:50:56.459Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-11T16:50:56.461Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-03-11T16:50:56.463Z] : [error]: Cannot read properties of null (reading 'type')
+

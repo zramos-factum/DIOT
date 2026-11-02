@@ -1,0 +1,91 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 3/8/2026, 20:10:33
+  ==========================================
+  
+
+[2026-08-04T01:10:40.187Z] : [info]: ---------------------------------------------
+
+[2026-08-04T01:10:40.188Z] : [success]: Bot started
+
+[2026-08-04T01:10:40.188Z] : [info]: Robot start
+
+[2026-08-04T01:10:43.299Z] : [error]: Sorry! The authentication process failed. Verify your account credentials into Studio Pro and try again. For further information about credentials refer to
+
+[2026-08-04T01:10:43.681Z] : [info]: Total execution time: 3s 110ms
+
+[2026-08-04T01:10:43.698Z] : [info]: ---------------------------------------------
+
+[2026-08-04T01:23:55.249Z] : [success]: Robot saved successfully
+
+[2026-08-04T01:27:43.115Z] : [success]: Robot saved successfully
+
+[2026-08-04T02:05:20.362Z] : [info]: Internet connection // error
+
+[2026-08-04T02:07:25.068Z] : [success]: Robot saved successfully
+
+[2026-08-04T02:08:52.800Z] : [success]: Robot saved successfully
+
+[2026-08-04T02:10:16.498Z] : [success]: Connection to our licenses server is restored
+
+[2026-08-04T02:10:56.821Z] : [success]: Robot saved successfully
+
+[2026-08-04T02:11:03.013Z] : [success]: Bot started
+
+[2026-08-04T02:11:03.014Z] : [info]: Robot start
+
+[2026-08-04T02:11:07.452Z] : [error]: wrong table iteration source format
+
+[2026-08-04T02:11:07.869Z] : [info]: Total execution time: 4s 436ms
+
+[2026-08-04T02:11:07.870Z] : [info]: ---------------------------------------------
+
+[2026-08-04T02:11:36.950Z] : [success]: Robot saved successfully
+
+[2026-08-04T02:11:44.070Z] : [success]: Bot started
+
+[2026-08-04T02:11:44.071Z] : [info]: Robot start
+
+[2026-08-04T02:11:49.333Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-03T00:00:00"}
+
+[2026-08-04T02:11:50.492Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-03T00:00:00"}
+
+[2026-08-04T02:11:51.672Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-03T00:00:00"}
+
+[2026-08-04T02:11:52.823Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-03T00:00:00"}
+
+[2026-08-04T02:11:53.920Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-03T00:00:00"}
+
+[2026-08-04T02:11:54.448Z] : [success]: Bot finished successfully, total execution time: 10s 371ms
+
+[2026-08-04T02:11:54.450Z] : [info]: ---------------------------------------------
+
+[2026-08-04T02:13:14.524Z] : [success]: Robot saved successfully
+
+[2026-08-04T02:13:21.084Z] : [success]: Bot started
+
+[2026-08-04T02:13:21.086Z] : [info]: Robot start
+
+[2026-08-04T02:13:25.980Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-03T00:00:00"}
+
+[2026-08-04T02:13:27.105Z] : [info]: {"A":2,"B":"A","C":"D","D":"ACO100804BY7","E":"marifa08","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"Sin .Zip","M":"OK","N":8}
+
+[2026-08-04T02:13:28.244Z] : [info]: {"A":3,"B":"S","C":"D","D":"CSO140715L69","E":"480219hc","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"agosto"}
+
+[2026-08-04T02:13:29.360Z] : [info]: {"A":4,"B":"F","C":"H","D":"GNA150618QX1","E":"480219HC","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"OK","M":"OK"}
+
+[2026-08-04T02:13:30.481Z] : [info]: {"A":5,"B":"G","C":"J","D":"TTA120416Q78","E":"Tetratom123","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"Ya estaba","M":"OK"}
+
+[2026-08-04T02:13:31.445Z] : [success]: Bot finished successfully, total execution time: 10s 354ms
+
+[2026-08-04T02:13:31.447Z] : [info]: ---------------------------------------------
+
+[2026-08-04T02:32:05.967Z] : [info]: Internet connection // error
+
+[2026-08-04T02:32:07.052Z] : [success]: Connection to our licenses server is restored
+
+[2026-08-04T02:52:09.167Z] : [success]: Robot saved successfully
+
+[2026-08-04T14:09:39.694Z] : [error]: Cannot read properties of undefined (reading 'viewContainerRef')
+

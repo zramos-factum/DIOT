@@ -1,0 +1,167 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 4/8/2026, 14:19:43
+  ==========================================
+  
+
+[2026-08-04T19:19:58.067Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:20:02.141Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:20:02.142Z] : [success]: Bot started
+
+[2026-08-04T19:20:02.143Z] : [info]: Robot start
+
+[2026-08-04T19:20:09.814Z] : [info]: {"A":1,"B":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\iim250710b79.cer","C":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426\\Claveprivada_FIEL_IIM250710B79_20250728_104426.key","D":"NIM250710E92","E":"bula1939","F":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_NIM250710E92_20250728114008\\NIM250710E92202602BN.zip","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","J":"C:\\Users\\zramo\\OneDrive\\Documentos\\BOT\\D\\FIEL_IIM250710B79_20250728104426","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"2026-08-04T00:00:00"}
+
+[2026-08-04T19:20:11.729Z] : [info]: {"A":2,"B":"A","C":"D","D":"ACO100804BY7","E":"marifa08","G":"Enero","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"Sin .Zip","M":"OK","N":8}
+
+[2026-08-04T19:20:13.970Z] : [info]: {"A":3,"B":"S","C":"D","D":"CSO140715L69","E":"480219hc","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"OK","M":"OK","N":"agosto"}
+
+[2026-08-04T19:20:16.116Z] : [info]: {"A":4,"B":"F","C":"H","D":"GNA150618QX1","E":"480219HC","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"OK","M":"OK"}
+
+[2026-08-04T19:20:18.072Z] : [info]: {"A":5,"B":"G","C":"J","D":"TTA120416Q78","E":"Tetratom123","H":"TOD130529GY1","I":"ULT800610387","K":"leonardo@vsa.mx","L":"Ya estaba","M":"OK"}
+
+[2026-08-04T19:20:20.306Z] : [success]: Bot finished successfully, total execution time: 18s 157ms
+
+[2026-08-04T19:20:20.309Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:24:26.915Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:24:32.270Z] : [success]: Bot started
+
+[2026-08-04T19:24:32.271Z] : [info]: Robot start
+
+[2026-08-04T19:24:36.796Z] : [success]: Bot finished successfully, total execution time: 4s 516ms
+
+[2026-08-04T19:24:36.799Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:25:06.453Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:25:11.126Z] : [success]: Bot started
+
+[2026-08-04T19:25:11.128Z] : [info]: Robot start
+
+[2026-08-04T19:25:12.296Z] : [error]: Unexpected token '<'
+
+[2026-08-04T19:25:12.565Z] : [info]: Total execution time: 1s 167ms
+
+[2026-08-04T19:25:12.566Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:25:58.416Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:26:04.574Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:26:08.834Z] : [success]: Bot started
+
+[2026-08-04T19:26:08.835Z] : [info]: Robot start
+
+[2026-08-04T19:26:09.705Z] : [info]: undefined
+
+[2026-08-04T19:26:12.059Z] : [success]: Bot finished successfully, total execution time: 3s 217ms
+
+[2026-08-04T19:26:12.061Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:32:47.668Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:33:14.713Z] : [success]: Bot started
+
+[2026-08-04T19:33:14.714Z] : [info]: Robot start
+
+[2026-08-04T19:33:15.641Z] : [info]: undefined
+
+[2026-08-04T19:33:17.959Z] : [success]: Bot finished successfully, total execution time: 3s 240ms
+
+[2026-08-04T19:33:17.961Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:38:38.664Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:38:43.732Z] : [success]: Bot started
+
+[2026-08-04T19:38:43.733Z] : [info]: Robot start
+
+[2026-08-04T19:38:44.741Z] : [info]: undefined
+
+[2026-08-04T19:38:44.751Z] : [info]: undefined
+
+[2026-08-04T19:38:44.976Z] : [success]: Bot finished successfully, total execution time: 1s 238ms
+
+[2026-08-04T19:38:44.979Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:40:06.215Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:40:11.219Z] : [success]: Bot started
+
+[2026-08-04T19:40:11.220Z] : [info]: Robot start
+
+[2026-08-04T19:40:12.166Z] : [info]: 
+
+[2026-08-04T19:40:12.187Z] : [info]: 
+
+[2026-08-04T19:40:12.443Z] : [success]: Bot finished successfully, total execution time: 1s 219ms
+
+[2026-08-04T19:40:12.445Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:40:58.053Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:43:04.446Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:43:04.689Z] : [success]: Bot started
+
+[2026-08-04T19:43:04.689Z] : [info]: Robot start
+
+[2026-08-04T19:43:08.467Z] : [info]: 
+
+[2026-08-04T19:43:08.485Z] : [info]: 
+
+[2026-08-04T19:43:08.838Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2026-08-04T19:43:10.257Z] : [success]: Bot finished successfully, total execution time: 5s 563ms
+
+[2026-08-04T19:43:10.259Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:43:41.677Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:43:46.988Z] : [success]: Bot started
+
+[2026-08-04T19:43:46.989Z] : [info]: Robot start
+
+[2026-08-04T19:43:48.506Z] : [info]: 
+
+[2026-08-04T19:43:48.514Z] : [info]: undefined
+
+[2026-08-04T19:43:48.888Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2026-08-04T19:43:49.381Z] : [success]: Bot finished successfully, total execution time: 2s 387ms
+
+[2026-08-04T19:43:49.383Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:44:22.007Z] : [success]: Bot started
+
+[2026-08-04T19:44:22.007Z] : [info]: Robot start
+
+[2026-08-04T19:44:22.922Z] : [info]: 
+
+[2026-08-04T19:44:22.942Z] : [info]: undefined
+
+[2026-08-04T19:44:23.216Z] : [success]: Bot finished successfully, total execution time: 1s 207ms
+
+[2026-08-04T19:44:23.217Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:44:47.531Z] : [success]: Robot saved successfully
+
+[2026-08-04T19:44:51.590Z] : [success]: Bot started
+
+[2026-08-04T19:44:51.590Z] : [info]: Robot start
+
+[2026-08-04T19:44:52.522Z] : [info]: 
+
+[2026-08-04T19:44:52.530Z] : [info]: 
+
+[2026-08-04T19:44:52.817Z] : [success]: Bot finished successfully, total execution time: 1s 223ms
+
+[2026-08-04T19:44:52.819Z] : [info]: ---------------------------------------------
+
+[2026-08-04T19:45:45.217Z] : [success]: Robot saved successfully
+

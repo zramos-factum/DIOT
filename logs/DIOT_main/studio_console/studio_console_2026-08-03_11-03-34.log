@@ -1,0 +1,186 @@
+
+  ==========================================
+  Studio Pro version: 12.0.6
+  Started at: 3/8/2026, 11:05:01
+  ==========================================
+  
+
+[2026-08-03T16:07:44.463Z] : [info]: ---------------------------------------------
+
+[2026-08-03T16:07:44.464Z] : [success]: Bot started
+
+[2026-08-03T16:07:44.465Z] : [info]: Robot start
+
+[2026-08-03T16:07:47.575Z] : [error]: Not Found
+
+[2026-08-03T16:07:48.157Z] : [info]: Total execution time: 3s 109ms
+
+[2026-08-03T16:07:48.159Z] : [info]: ---------------------------------------------
+
+[2026-08-03T16:10:24.911Z] : [success]: Bot started
+
+[2026-08-03T16:10:24.914Z] : [info]: Robot start
+
+[2026-08-03T16:10:27.104Z] : [error]: Not Found
+
+[2026-08-03T16:10:27.594Z] : [info]: Total execution time: 2s 188ms
+
+[2026-08-03T16:10:27.596Z] : [info]: ---------------------------------------------
+
+[2026-08-03T17:01:04.281Z] : [info]: Internet connection // error
+
+[2026-08-03T17:01:11.340Z] : [success]: Connection to our licenses server is restored
+
+[2026-08-03T17:18:40.543Z] : [success]: Robot saved successfully
+
+[2026-08-03T17:24:48.460Z] : [success]: Robot saved successfully
+
+[2026-08-03T17:24:54.138Z] : [success]: Bot started
+
+[2026-08-03T17:24:54.140Z] : [info]: Robot start
+
+[2026-08-03T17:25:04.360Z] : [info]: {}
+
+[2026-08-03T17:25:05.016Z] : [success]: Bot finished successfully, total execution time: 10s 863ms
+
+[2026-08-03T17:25:05.021Z] : [info]: ---------------------------------------------
+
+[2026-08-03T19:05:46.070Z] : [info]: Internet connection // error
+
+[2026-08-03T19:06:02.668Z] : [success]: Connection to our licenses server is restored
+
+[2026-08-03T19:42:29.416Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:42:35.595Z] : [success]: Bot started
+
+[2026-08-03T19:42:35.597Z] : [info]: Robot start
+
+[2026-08-03T19:42:49.621Z] : [error]: Disposable been disposed
+
+[2026-08-03T19:42:50.703Z] : [info]: Total execution time: 14s 20ms
+
+[2026-08-03T19:42:50.706Z] : [info]: ---------------------------------------------
+
+[2026-08-03T19:42:56.968Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:43:00.459Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:43:06.183Z] : [success]: Bot started
+
+[2026-08-03T19:43:06.184Z] : [info]: Robot start
+
+[2026-08-03T19:43:12.408Z] : [info]: {"id":"chatcmpl-E8sqwDSYIK4mBo1ttOlMmrfUc9jPM","object":"chat.completion","created":1785786186,"model":"gpt-4o-2024-08-06","choices":[{"text":"Por supuesto, aquí tienes un ejemplo de un cuerpo de correo electrónico en HTML con una tabla sencilla que incluye tres datos:\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid #dddddd;\n            text-align: left;\n            padding: 8px;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n    </style>\n</head>\n<body>\n    <p>Estimado/a [Nombre],</p>\n\n    <p>A continuación, se presentan los datos solicitados:</p>\n\n    <table>\n        <thead>\n            <tr>\n                <th>Dato 1</th>\n                <th>Dato 2</th>\n                <th>Dato 3</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Valor 1</td>\n                <td>Valor 2</td>\n                <td>Valor 3</td>\n            </tr>\n        </tbody>\n    </table>\n\n    <p>Si tienes alguna pregunta o necesitas más información, no dudes en contactarme.</p>\n\n    <p>Saludos cordiales,</p>\n    <p>[Tu Nombre]</p>\n    <p>[Tu Cargo]</p>\n    <p>[Tu Empresa]</p>\n    <p>[Tu Teléfono]</p>\n</body>\n</html>\n```\n\nEste código HTML crea un correo electrónico con una tabla sencilla que contiene tres columnas para los datos. Puedes reemplazar `[Nombre]`, `Valor 1`, `Valor 2`, `Valor 3`, y los datos de contacto al final con la información correspondiente.","index":0}],"usage":{"prompt_tokens":36,"completion_tokens":403,"total_tokens":439}}
+
+[2026-08-03T19:43:12.737Z] : [success]: Bot finished successfully, total execution time: 6s 544ms
+
+[2026-08-03T19:43:12.741Z] : [info]: ---------------------------------------------
+
+[2026-08-03T19:45:31.823Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:45:37.252Z] : [success]: Bot started
+
+[2026-08-03T19:45:37.253Z] : [info]: Robot start
+
+[2026-08-03T19:45:48.667Z] : [info]: {"id":"chatcmpl-E8stOW10TGyNUGK0j2emViFvL1ksq","object":"chat.completion","created":1785786338,"model":"gpt-4o-2024-08-06","choices":[{"text":"Parece que los datos que proporcionaste están en un formato incorrecto o no se han especificado claramente. Sin embargo, puedo mostrarte cómo estructurar un correo electrónico en HTML con una tabla sencilla. Puedes reemplazar los datos de ejemplo con los datos correctos que desees incluir.\n\nAquí tienes un ejemplo de cómo podría verse el cuerpo del correo en HTML:\n\n```html\n<!DOCTYPE html>\n<html lang=\"es\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <style>\n        table {\n            width: 100%;\n            border-collapse: collapse;\n        }\n        th, td {\n            border: 1px solid #dddddd;\n            text-align: left;\n            padding: 8px;\n        }\n        th {\n            background-color: #f2f2f2;\n        }\n    </style>\n</head>\n<body>\n    <p>Estimado/a,</p>\n    <p>A continuación, se presentan los datos solicitados:</p>\n    <table>\n        <thead>\n            <tr>\n                <th>Dato 1</th>\n                <th>Dato 2</th>\n                <th>Dato 3</th>\n            </tr>\n        </thead>\n        <tbody>\n            <tr>\n                <td>Valor 1</td>\n                <td>Valor 2</td>\n                <td>Valor 3</td>\n            </tr>\n            <tr>\n                <td>Valor 4</td>\n                <td>Valor 5</td>\n                <td>Valor 6</td>\n            </tr>\n            <tr>\n                <td>Valor 7</td>\n                <td>Valor 8</td>\n                <td>Valor 9</td>\n            </tr>\n        </tbody>\n    </table>\n    <p>Saludos cordiales,</p>\n    <p>[Tu Nombre]</p>\n</body>\n</html>\n```\n\nReemplaza \"Valor 1\", \"Valor 2\", etc., con los datos reales que deseas incluir en la tabla. Si tienes más detalles sobre los datos que necesitas mostrar, estaré encantado de ayudarte a personalizarlo más.","index":0}],"usage":{"prompt_tokens":67,"completion_tokens":473,"total_tokens":540}}
+
+[2026-08-03T19:45:48.876Z] : [success]: Bot finished successfully, total execution time: 11s 614ms
+
+[2026-08-03T19:45:48.882Z] : [info]: ---------------------------------------------
+
+[2026-08-03T19:48:27.590Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:48:30.596Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:48:36.449Z] : [success]: Bot started
+
+[2026-08-03T19:48:36.450Z] : [info]: Robot start
+
+[2026-08-03T19:48:44.234Z] : [error]: Unexpected token o in JSON at position 1
+
+[2026-08-03T19:48:44.769Z] : [info]: Total execution time: 7s 782ms
+
+[2026-08-03T19:48:44.770Z] : [info]: ---------------------------------------------
+
+[2026-08-03T19:50:16.519Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:57:51.825Z] : [success]: Robot saved successfully
+
+[2026-08-03T19:59:56.733Z] : [success]: Robot saved successfully
+
+[2026-08-03T20:00:02.079Z] : [success]: Bot started
+
+[2026-08-03T20:00:02.080Z] : [info]: Robot start
+
+[2026-08-03T20:00:04.363Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-4af58f25e00sm7126541b6e.14 - gsmtp
+
+[2026-08-03T20:00:04.998Z] : [info]: Total execution time: 2s 281ms
+
+[2026-08-03T20:00:04.999Z] : [info]: ---------------------------------------------
+
+[2026-08-03T20:01:59.763Z] : [success]: Bot started
+
+[2026-08-03T20:01:59.764Z] : [info]: Robot start
+
+[2026-08-03T20:02:02.067Z] : [error]: Sorry! The authentication process failed. Verify your account credentials into Studio Pro and try again. For further information about credentials refer to
+
+[2026-08-03T20:02:02.616Z] : [info]: Total execution time: 2s 302ms
+
+[2026-08-03T20:02:02.617Z] : [info]: ---------------------------------------------
+
+[2026-08-04T01:01:42.165Z] : [info]: Internet connection // error
+
+[2026-08-04T01:01:48.155Z] : [success]: Connection to our licenses server is restored
+
+[2026-08-04T01:04:27.342Z] : [success]: Robot saved successfully
+
+[2026-08-04T01:04:32.605Z] : [success]: Bot started
+
+[2026-08-04T01:04:32.606Z] : [info]: Robot start
+
+[2026-08-04T01:04:34.877Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-4af58e95b32sm7755654b6e.10 - gsmtp
+
+[2026-08-04T01:04:35.362Z] : [info]: Total execution time: 2s 269ms
+
+[2026-08-04T01:04:35.363Z] : [info]: ---------------------------------------------
+
+[2026-08-04T01:06:46.277Z] : [success]: Robot saved successfully
+
+[2026-08-04T01:06:51.903Z] : [success]: Bot started
+
+[2026-08-04T01:06:51.903Z] : [info]: Robot start
+
+[2026-08-04T01:06:54.088Z] : [error]: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 5614622812f47-4af58ce3e8esm7654338b6e.3 - gsmtp
+
+[2026-08-04T01:06:54.655Z] : [info]: Total execution time: 2s 183ms
+
+[2026-08-04T01:06:54.656Z] : [info]: ---------------------------------------------
+
+[2026-08-04T01:08:05.758Z] : [success]: Robot saved successfully
+
+[2026-08-04T01:08:13.137Z] : [success]: Bot started
+
+[2026-08-04T01:08:13.138Z] : [info]: Robot start
+
+[2026-08-04T01:08:15.399Z] : [error]: Sorry! The authentication process failed. Verify your account credentials into Studio Pro and try again. For further information about credentials refer to
+
+[2026-08-04T01:08:16.103Z] : [info]: Total execution time: 2s 260ms
+
+[2026-08-04T01:08:16.104Z] : [info]: ---------------------------------------------
+
+[2026-08-04T01:09:56.596Z] : [success]: Robot saved successfully
+
+[2026-08-04T01:09:57.833Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-04T01:09:57.839Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-04T01:09:57.841Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-04T01:09:57.846Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-04T01:09:57.848Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2026-08-04T01:09:57.851Z] : [error]: Cannot read properties of null (reading 'type')
+
